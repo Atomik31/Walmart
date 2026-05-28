@@ -1,3 +1,5 @@
+![Walmart](Walmart-Logo.png)
+
 # Walmart — Prédiction des ventes hebdomadaires
 
 Projet réalisé dans le cadre du bloc 3 de la certification CDSD (Jedha).
