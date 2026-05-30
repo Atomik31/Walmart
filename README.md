@@ -46,6 +46,18 @@ Walmart/
 │   └── walmart.ipynb
 ├── reports/
 │   └── figures/
+│       ├── 01_weekly_sales_distribution.png
+│       ├── 02_temperature_distribution.png
+│       ├── 03_fuel_price_distribution.png
+│       ├── 04_cpi_distribution.png
+│       ├── 05_unemployment_distribution.png
+│       ├── 06_sales_holiday_vs_normal.png
+│       ├── 07_correlation_matrix.png
+│       ├── 08_lr_coefficients.png
+│       ├── 09_lr_pred_vs_real.png
+│       ├── 10_ridge_pred_vs_real.png
+│       ├── 11_lasso_pred_vs_real.png
+│       └── 12_models_r2_comparison.png
 └── README.md
 ```
 
