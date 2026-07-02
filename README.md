@@ -1,6 +1,6 @@
 ![Walmart](Walmart-Logo.png)
 
-# Walmart — Prédiction des ventes hebdomadaires
+# Walmart - Prédiction des ventes hebdomadaires
 
 Projet réalisé dans le cadre du bloc 3 de la certification CDSD (Jedha).
 
@@ -23,7 +23,7 @@ Walmart veut mieux comprendre comment les indicateurs économiques (chômage, pr
 
 ## Stack
 
-- Python — Pandas, Scikit-learn, Matplotlib, Seaborn
+- Python - Pandas, Scikit-learn, Matplotlib, Seaborn
 
 ---
 
@@ -63,4 +63,4 @@ Walmart/
 
 ---
 
-Julien CHARLIER — [(Github : Atomik31)](https://github.com/Atomik31)
+Julien CHARLIER - [(Github : Atomik31)](https://github.com/Atomik31)
